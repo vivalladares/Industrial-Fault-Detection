@@ -1,5 +1,6 @@
 # Industrial-Fault-Detection
 Industrial failure detection systems in micro and macro processes
+Note: The datasets in this study are not shared due to company data security
 
 # Industrial refrigeration System
 
@@ -13,4 +14,6 @@ of anomalies in a refrigeration system;
 Product labeling and real-time detection of overturned cans
 
 ![individualImage](https://user-images.githubusercontent.com/81088917/141991378-f693abc4-412e-460d-adf2-f1750b4535ae.png)
+
+
 
