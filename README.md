@@ -1,6 +1,8 @@
 # Industrial-Fault-Detection
 Industrial failure detection systems in micro and macro processes
-Note: The datasets in this study are not shared due to company data security
+
+Note: The datasets in this study will not be shared due to company data security, only developed systems, which can be replicated to other datasets
+
 
 # Industrial refrigeration System
 
